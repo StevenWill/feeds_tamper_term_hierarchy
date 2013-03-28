@@ -5,3 +5,10 @@ package = Feeds
 dependencies[] = feeds
 dependencies[] = taxonomy
 dependencies[] = feeds_tamper
+
+
+; Information added by drush on 2013-03-28
+version = "unknown"
+project = "feeds_tamper_term_hierarchy"
+datestamp = "1364471390"
+
